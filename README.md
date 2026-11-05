@@ -24,12 +24,15 @@
 ## 🛠️ Languages & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,vite,nodejs,express,mongodb,git,github,vscode,postman&perline=8" alt="Languages and Technologies" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,vite,nodejs,express,git,github,vscode,postman&perline=8" height="42" alt="Languages and Development Tools" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white" height="30" alt="Mongoose" />
-  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white" height="30" alt="Cloudinary" />
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="42" alt="MongoDB" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/mongoose/880000" height="42" alt="Mongoose" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/cloudinary/3448C5" height="42" alt="Cloudinary" />
 </p>
 
 ---

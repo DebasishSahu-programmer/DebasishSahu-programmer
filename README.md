@@ -1,79 +1,88 @@
-# Hi, I'm Debasish Sahu 👋
+# 👋 Hey, I'm Debasish Sahu
 
-### Software Developer | Associate Software Engineer | Full-Stack Developer
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Software+Developer;Associate+Software+Engineer;Full+Stack+Developer;Frontend+Developer;Backend+Developer" alt="Typing SVG" />
+</p>
 
-Passionate about building scalable web applications and developing modern, responsive user interfaces. Interested in Full-Stack Development, Frontend Engineering, and Backend Development.
+<p align="center">
+  <b>Full-Stack Developer | Software Developer | Associate Software Engineer</b>
+</p>
+
+<p align="center">
+  Passionate about building modern web applications, developing scalable backend services, and creating responsive user interfaces.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/debasish-sahu-56a864367/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/Focus-Full--Stack%20Development-36BCF7?style=for-the-badge" />
+</p>
 
 ---
 
-### 💻 Technical Skills & Technologies
+## 🚀 Technical Skills
 
-**Programming Languages**
-
+### 💻 Programming Languages
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
-**Frontend Development**
-
+### 🎨 Frontend Development
 <p>
   <img src="https://skillicons.dev/icons?i=react,redux,tailwind,vite" />
 </p>
 
-**Backend Development**
-
+### ⚙️ Backend Development
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-**Database & ODM**
-
+### 🗄️ Database & ODM
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb" />
-  <img src="https://cdn.simpleicons.org/mongoose/880000" height="48" />
+  <img src="https://cdn.simpleicons.org/mongoose/880000" height="48" alt="Mongoose" />
 </p>
 
-**Cloud & Media Storage**
-
+### ☁️ Cloud & Media Storage
 <p>
-  <img src="https://skillicons.dev/icons?i=cloudinary" />
+  <img src="https://cdn.simpleicons.org/cloudinary/3448C5" height="48" alt="Cloudinary" />
 </p>
 
-**Tools & Development Environment**
-
+### 🔧 Tools & Development Environment
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
-**AI Development Tools**
-
+### 🤖 AI Development Tools
 <p>
-  <img src="https://cdn.simpleicons.org/openai/412991" height="48" />
-  <img src="https://cdn.simpleicons.org/claude/D97757" height="48" />
+  <img src="https://cdn.simpleicons.org/openai/412991" height="48" alt="ChatGPT" />
+  <img src="https://cdn.simpleicons.org/claude/D97757" height="48" alt="Claude AI" />
   <img src="https://skillicons.dev/icons?i=githubcopilot" />
 </p>
 
 ---
 
-### 🌐 Connect With Me
+## 👨‍💻 Areas of Interest
 
-<a href="https://www.linkedin.com/in/debasish-sahu-56a864367/">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
-</a>
+<p>
+  <img src="https://img.shields.io/badge/Full--Stack%20Development-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Frontend%20Engineering-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Backend%20Development-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20API%20Development-005571?style=flat-square" />
+  <img src="https://img.shields.io/badge/Database%20Management-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+</p>
 
-[LinkedIn](https://www.linkedin.com/in/debasish-sahu-56a864367/)
+---
 
-<!--
-**DebasishSahu-programmer/DebasishSahu-programmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌐 Connect With Me
 
-Here are some ideas to get you started:
+<p>
+  <a href="https://www.linkedin.com/in/debasish-sahu-56a864367/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <i>Building. Learning. Improving. One line of code at a time. 🚀</i>
+</p>

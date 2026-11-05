@@ -24,7 +24,11 @@
 ## 🛠️ Languages & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,vite,nodejs,express,mongodb,mongoose,git,github,vscode,postman,cloudinary&perline=8" alt="Technical Skills and Technologies" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,vite,nodejs,express,mongodb,mongoose,git,github,vscode,postman&perline=8" alt="Languages and Technologies" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white" height="30" alt="Cloudinary" />
 </p>
 
 ---
@@ -42,11 +46,11 @@
 ## 🚀 Areas of Interest
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Full--Stack%20Development-181717?style=flat-square" />
-  <img src="https://img.shields.io/badge/Software%20Engineering-00599C?style=flat-square" />
-  <img src="https://img.shields.io/badge/Frontend%20Development-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Backend%20Development-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/RESTful%20API%20Development-005571?style=flat-square" />
+  <img src="https://img.shields.io/badge/Full--Stack%20Development-181717?style=flat-square" alt="Full Stack Development" />
+  <img src="https://img.shields.io/badge/Software%20Engineering-00599C?style=flat-square" alt="Software Engineering" />
+  <img src="https://img.shields.io/badge/Frontend%20Development-61DAFB?style=flat-square&logo=react&logoColor=black" alt="Frontend Development" />
+  <img src="https://img.shields.io/badge/Backend%20Development-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Backend Development" />
+  <img src="https://img.shields.io/badge/RESTful%20API%20Development-005571?style=flat-square" alt="RESTful API Development" />
 </p>
 
 ---

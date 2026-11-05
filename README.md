@@ -24,10 +24,11 @@
 ## 🛠️ Languages & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,vite,nodejs,express,mongodb,mongoose,git,github,vscode,postman&perline=8" alt="Languages and Technologies" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,vite,nodejs,express,mongodb,git,github,vscode,postman&perline=8" alt="Languages and Technologies" />
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white" height="30" alt="Mongoose" />
   <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white" height="30" alt="Cloudinary" />
 </p>
 

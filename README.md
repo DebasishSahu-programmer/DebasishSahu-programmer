@@ -1,7 +1,7 @@
-# 👋 Hey, I'm Debasish Sahu
+# 👋 Hi, I'm Debasish Sahu
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Software+Developer;Associate+Software+Engineer;Full+Stack+Developer;Frontend+Developer;Backend+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Software+Developer;Associate+Software+Engineer;Full+Stack+Developer;Frontend+Developer;Backend+Developer" alt="Professional Roles" />
 </p>
 
 <p align="center">
@@ -9,67 +9,67 @@
 </p>
 
 <p align="center">
-  Passionate about building modern web applications, developing scalable backend services, and creating responsive user interfaces.
+  Building modern web applications, developing RESTful APIs, and creating responsive user experiences.
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/debasish-sahu-56a864367/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <img src="https://img.shields.io/badge/Focus-Full--Stack%20Development-36BCF7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Full--Stack%20Development-0A66C2?style=flat-square" alt="Full Stack Development" />
 </p>
 
 ---
 
-## 🚀 Technical Skills
+## 💻 Technical Skills
 
-### 💻 Programming Languages
+### Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js" />
+  <img src="https://skillicons.dev/icons?i=html,css,js&perline=8" height="42" alt="HTML CSS JavaScript" />
 </p>
 
-### 🎨 Frontend Development
+### Frontend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=react,redux,tailwind,vite" />
+  <img src="https://skillicons.dev/icons?i=react,redux,tailwind,reactrouter,vite&perline=8" height="42" alt="Frontend Technologies" />
 </p>
 
-### ⚙️ Backend Development
+### Backend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express&perline=8" height="42" alt="Backend Technologies" />
 </p>
 
-### 🗄️ Database & ODM
+### Database & ODM
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb" />
-  <img src="https://cdn.simpleicons.org/mongoose/880000" height="48" alt="Mongoose" />
+  <img src="https://skillicons.dev/icons?i=mongodb&perline=8" height="42" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white" height="26" alt="Mongoose" />
 </p>
 
-### ☁️ Cloud & Media Storage
+### Cloud & Media Storage
 <p>
-  <img src="https://cdn.simpleicons.org/cloudinary/3448C5" height="48" alt="Cloudinary" />
+  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white" height="26" alt="Cloudinary" />
 </p>
 
-### 🔧 Tools & Development Environment
+### Tools & Development Environment
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&perline=8" height="42" alt="Development Tools" />
 </p>
 
-### 🤖 AI Development Tools
+### AI Development Tools
 <p>
-  <img src="https://cdn.simpleicons.org/openai/412991" height="48" alt="ChatGPT" />
-  <img src="https://cdn.simpleicons.org/claude/D97757" height="48" alt="Claude AI" />
-  <img src="https://skillicons.dev/icons?i=githubcopilot" />
+  <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=flat-square&logo=openai&logoColor=white" height="26" alt="ChatGPT" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white" height="26" alt="Claude AI" />
+  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white" height="26" alt="GitHub Copilot" />
 </p>
 
 ---
 
-## 👨‍💻 Areas of Interest
+## 🚀 Areas of Interest
 
 <p>
   <img src="https://img.shields.io/badge/Full--Stack%20Development-181717?style=flat-square&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Frontend%20Engineering-61DAFB?style=flat-square&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Backend%20Development-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST%20API%20Development-005571?style=flat-square" />
+  <img src="https://img.shields.io/badge/RESTful%20APIs-005571?style=flat-square" />
   <img src="https://img.shields.io/badge/Database%20Management-47A248?style=flat-square&logo=mongodb&logoColor=white" />
 </p>
 
@@ -79,10 +79,10 @@
 
 <p>
   <a href="https://www.linkedin.com/in/debasish-sahu-56a864367/">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Debasish%20Sahu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
   </a>
 </p>
 
 <p align="center">
-  <i>Building. Learning. Improving. One line of code at a time. 🚀</i>
+  <i>Keep Learning · Keep Building · Keep Growing 🚀</i>
 </p>
